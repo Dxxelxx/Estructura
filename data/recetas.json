@@ -1,0 +1,63 @@
+[
+
+    {
+        "id": 1,
+        "titulo": "Tacos de pollo",
+        "ingredientes": ["Tortillas de maíz","Pechuga de pollo","Cebolla","Cilantro","Salsa","Limón"],
+        "instrucciones": "Cocina la pechuga de pollo y córtala en tiras. Calienta las tortillas y coloca el pollo, cebolla, cilantro y salsa al gusto. Exprime un poco de limón encima."
+    },
+    {
+        "id": 2,
+        "titulo": "Ensalada César",
+        "ingredientes": ["Lechuga romana","Pollo a la parrilla","Queso parmesano","Crutones","Aderezo César"],
+        "instrucciones": "Corta la lechuga y mezcla con el pollo a la parrilla en trozos. Añade queso parmesano rallado y crutones. Vierte el aderezo César y mezcla bien."
+    },
+    {
+        "id": 3,
+        "titulo": "Spaghetti a la boloñesa",
+        "ingredientes": ["Spaghetti","Carne molida","Tomate triturado","Cebolla","Ajo","Aceite de oliva","Sal y pimienta"],
+        "instrucciones": "Cocina el spaghetti según las instrucciones del paquete. En una sartén, sofríe la cebolla y el ajo en aceite de oliva, añade la carne molida hasta que esté dorada. Agrega el tomate triturado, sal y pimienta, y cocina a fuego lento por 20 minutos. Sirve la salsa sobre el spaghetti."
+    },
+    {
+        "id": 4,
+        "titulo": "Panqueques",
+        "ingredientes": ["Harina","Leche","Huevos","Azúcar","Polvo para hornear","Mantequilla"],
+        "instrucciones": "Mezcla la harina, el polvo para hornear y el azúcar en un bol. Añade los huevos y la leche, y mezcla hasta obtener una masa homogénea. Calienta una sartén con mantequilla y vierte un poco de masa para formar los panqueques. Cocina hasta que estén dorados por ambos lados."
+    },
+    {
+        "id": 5,
+        "titulo": "Guacamole",
+        "ingredientes": ["Aguacates","Cebolla","Tomate","Cilantro","Jugo de limón","Sal"],
+        "instrucciones": "Machaca los aguacates en un bol. Añade cebolla picada, tomate en cubos, cilantro picado, jugo de limón y sal al gusto. Mezcla bien y sirve con totopos."
+    },
+    {
+        "id": 6,
+        "titulo": "Sopa de verduras",
+        "ingredientes": ["Zanahorias","Apio","Cebolla","Papas","Caldo de verduras","Sal y pimienta"],
+        "instrucciones": "Corta las verduras en trozos pequeños. En una olla, sofríe la cebolla hasta que esté transparente, añade las zanahorias, apio y papas. Vierte el caldo de verduras y cocina a fuego medio hasta que las verduras estén tiernas. Sazona con sal y pimienta al gusto."
+    },
+    {
+        "id": 7,
+        "titulo": "Brownies de chocolate",
+        "ingredientes": ["Chocolate oscuro","Mantequilla","Azúcar","Huevos","Harina","Cacao en polvo","Sal"],
+        "instrucciones": "Derrite el chocolate y la mantequilla juntos. En un bol, mezcla el azúcar y los huevos, luego añade la mezcla de chocolate. Incorpora la harina, el cacao en polvo y una pizca de sal. Vierte la mezcla en un molde para hornear y cocina a 180°C durante 25-30 minutos."
+    },
+    {
+        "id": 8,
+        "titulo": "Pizza Margherita",
+        "ingredientes": ["Masa para pizza","Salsa de tomate","Queso mozzarella","Hojas de albahaca","Aceite de oliva","Sal"],
+        "instrucciones": "Extiende la masa para pizza y cubre con salsa de tomate. Añade rodajas de queso mozzarella y hojas de albahaca. Rocía con aceite de oliva y una pizca de sal. Hornea a 220°C durante 10-15 minutos o hasta que la masa esté dorada y el queso derretido."
+    },
+    {
+        "id": 9,
+        "titulo": "Smoothie de frutas",
+        "ingredientes": ["Plátano","Fresas","Yogur natural","Miel","Hielo"],
+        "instrucciones": "Coloca el plátano, las fresas, el yogur, la miel y el hielo en una licuadora. Mezcla hasta obtener una consistencia suave. Sirve inmediatamente."
+    },
+    {
+        "id": 10,
+        "titulo": "Arroz frito",
+        "ingredientes": ["Arroz cocido","Huevos","Zanahorias","Guisantes","Cebolla","Salsa de soja","Aceite"],
+        "instrucciones": "En una sartén grande, calienta el aceite y sofríe la cebolla hasta que esté transparente. Añade las zanahorias y los guisantes, cocina por unos minutos. Empuja las verduras a un lado de la sartén y bate los huevos en el otro lado hasta que estén cocidos. Mezcla todo junto y añade el arroz cocido. Vierte salsa de soja al gusto y mezcla bien."
+    }
+]
